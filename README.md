@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-This repository contains code examples, exercises, and projects for the **3-month Artificial Intelligence, Machine Learning, and Deep Learning** course offered by the National Vocational and Technical Training Commission (NAVTTC), Government of Pakistan under the Prime Minister's Hunarmand Pakistan Program.
+This repository contains code examples, exercises, tasks and projects for the **3-month Artificial Intelligence, Machine Learning, and Deep Learning** course offered by the National Vocational and Technical Training Commission (NAVTTC), Government of Pakistan under the Prime Minister's Hunarmand Pakistan Program.
 
 ## 📚 Course Overview
 
