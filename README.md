@@ -18,4 +18,3 @@ The course is designed to provide comprehensive training in:
 
 **Duration**: 3 Months (12 Weeks)  
 **Theory**: 20% | **Practical**: 80%
-
