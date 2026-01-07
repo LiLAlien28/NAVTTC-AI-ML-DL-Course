@@ -1,7 +1,6 @@
 # AI/ML/DL 3-Month Course - Code Repository
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 This repository contains code examples, exercises, tasks and projects for the **3-month Artificial Intelligence, Machine Learning, and Deep Learning** course offered by the National Vocational and Technical Training Commission (NAVTTC), Government of Pakistan under the Prime Minister's Hunarmand Pakistan Program.
